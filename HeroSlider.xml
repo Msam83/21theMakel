@@ -5,3 +5,4 @@
     jcr:title="My Template"
     sling:resourceSuperType="wcm/foundation/components/page"
     componentGroup=".hidden"/>
+<!-- this is a last commit and push after deleting the blue and the brown features... -->
